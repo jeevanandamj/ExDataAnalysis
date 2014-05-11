@@ -1,0 +1,1 @@
+plot(house1$day, house1$Global_active_power, type="l", ylab ="Global Active Power (kilowatts)")
